@@ -1,0 +1,79 @@
+<html>
+<head>
+ <title>20.Uygulamam</title>
+ <style type="text/css">
+.apartman{width:350px; height:auto; margin:100px auto 0 auto;}
+.baca{width:25px; height:50px; background:#cd853f; margin:0 0 0 235px}
+.cati{width:250px; height:250px; background:#8b4513; transform:rotate(45deg); margin:-35px 0 0 50px; position:relative; z-index:1 ;}
+.govde{width:330px; height:470px; background:#00bfff; margin:-122px 0 0 0; position: relative; z-index:2; padding:30px 0 0 20px;}
+.pencere1{width:58px; height:58px; background:#ff9; border:1px solid #000; float:left; margin:0 0 65px 0}
+.pencere2{width:58px; height:58px; background:#ff9; border:1px solid #000; float:left; margin:0 0 65px 65px}
+.pencere3{width:58px; height:58px; background:#ff9; border:1px solid #000; float:left; margin:0 0 65px 65px}
+.solperde{width:23px; height:56px; background: #fff; border: 1px solid #000; float: left; border-radius: 0 0 20px 0; border-top: 0; border-left: 0;}
+.sagperde{width:23px; height:56px; background: #fff; border: 1px solid #000; float: left; margin: 0 0 0 10px; border-radius: 0 0 0 20px; border-top: 0; border-right: 0;}
+.kapidisindakikutu{width:85px; height:auto; float: left; margin:-48 0 0 53px}
+.apartmanadi{width:83px; height:16px; background: #fff; border:1px solid #000; font:bold 9px tahoma; text-align: center; margin:-7px 0 0 0; padding:4px 0 0 0}
+.kapi{width:76px; height:73px; background:#363636; margin: 7px 0 0 0; box-shadow:0 -2px 1px #000; padding:50px 0 0 9px;}
+.sonpencere{width:58px; height:58px; background:#ff9; border:1px solid #000; float:left; margin:0 0 65px 52px}
+.kapikolu{width:15px; height:5px; background: #000;}
+ </style>   
+</head>
+<body>
+ <div class="apartman">
+ <div class="baca"></div>
+ <div class="cati"></div>
+ <div class="govde">
+ <div class="pencere1">
+  <div class="solperde"></div>
+  <div class="sagperde"></div>  
+ </div>
+ <div class="pencere2">
+    <div class="solperde"></div>
+  <div class="sagperde"></div> 
+ </div>
+ <div class="pencere3">
+    <div class="solperde"></div>
+  <div class="sagperde"></div> 
+ </div>
+ <div class="pencere1">
+    <div class="solperde"></div>
+  <div class="sagperde"></div>   
+ </div>
+ <div class="pencere2">
+    <div class="solperde"></div>
+    <div class="sagperde"></div> 
+ </div>
+ <div class="pencere3">
+    <div class="solperde"></div>
+    <div class="sagperde"></div> 
+ </div>
+ <div class="pencere1">
+    <div class="solperde"></div>
+    <div class="sagperde"></div> 
+ </div>
+ <div class="pencere2">
+    <div class="solperde"></div>
+    <div class="sagperde"></div> 
+ </div>
+ <div class="pencere3">
+    <div class="solperde"></div>
+    <div class="sagperde"></div> 
+ </div>
+ <div class="pencere1">
+    <div class="solperde"></div>
+  <div class="sagperde"></div>   
+ </div>
+ <div class="kapidisindakikutu">
+<div class="apartmanadi">KARDESLER APT.</div>
+<div class="kapi">
+ <div class="kapikolu"></div>  
+</div>
+ </div>
+ <div class="sonpencere">
+    <div class="solperde"></div>
+    <div class="sagperde"></div> 
+ </div>
+ </div>      
+ </div>
+</body>
+</html>
